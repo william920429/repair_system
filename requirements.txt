@@ -1,0 +1,11 @@
+Flask == 1.1.2
+Flask-script
+Flask-login
+Flask-sqlalchemy
+Flask-wtf
+Flask-mail
+MySQL
+ujson
+passlib
+Flask-APScheduler
+Flask-Caching
